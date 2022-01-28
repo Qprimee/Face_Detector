@@ -5,3 +5,7 @@ you tacke image to this app
 and if human in image app crate line of fice persons 
 
 enjoy
+
+```
+pip install opencv-python
+```
